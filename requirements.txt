@@ -1,0 +1,6 @@
+pandas
+numpy
+openpyxl
+flask
+pytest
+selenium
